@@ -7,7 +7,7 @@
 
 </p>
 
-![I am Web Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
+![I am Web Developer](https://github.com/inabijon/inabijon/blob/main/static_website.svg)
       <br>
 <div align="center">
 <img height="22" src="https://github.com/inabijon/inabijon/blob/main/static_website.svg" align="center" />
