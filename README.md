@@ -8,7 +8,8 @@
       
 
 <div align="center">
-   ![I am Web Developer](https://github.com/inabijon/inabijon/blob/main/angular.png)
+   ![I am Web Developer]()
+   <img src="https://github.com/inabijon/inabijon/blob/main/angular.png" />
       <br>
 </div> 
       
