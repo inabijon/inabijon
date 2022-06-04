@@ -3,7 +3,7 @@
    <h3>
 
 <p align="center"> 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer"></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+Developer;I+'+m+MEAN+stack+Developer"></a>
 
 </p>
 
