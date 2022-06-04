@@ -9,9 +9,6 @@
 
 <div align="center">
    <img src="https://github.com/inabijon/inabijon/blob/main/angular.png" />
-   <img src="https://github.com/inabijon/inabijon/blob/main/pngegg.png" />
-   
-      <br>
 </div> 
       
 
