@@ -7,7 +7,7 @@
 
 </p>
 
-![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
+![I am Web Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
       <br>
 <div align="center">
 <img height="22" src="https://komarev.com/ghpvc/?username=nabijon2001&&style=flat-square" align="center" />
