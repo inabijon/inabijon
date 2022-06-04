@@ -21,15 +21,14 @@ Here are some ideas to get you started:
     <a href="#"><img alt="sass" height="23" src="https://img.shields.io/badge/Sass-20232e.svg?logo=sass&logoColor=orange"></a>
     <a href="#"><img alt="less" height="23" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=orange"></a>
     <a href="#"><img alt="javascript" height="23" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=yellow"></a>
-    <a href=""> <img alt="TypeScript" height="23" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>     
+    <a href="#"> <img alt="TypeScript" height="23" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>     
     <a href="#"><img alt="Angular" height="23" src="https://img.shields.io/badge/Angular-D00000.svg?logo=angular&logoColor=black"></a>
-    <a href="#"><img alt="GitHub Actions" height="23" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Git" height="23" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
    
 </p>
        <p align="center">
-  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
+  <a href="mailto:nabijonibodullaev@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nabijon-ibodullayev"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
     <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
   </p>
       
